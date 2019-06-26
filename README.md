@@ -1,4 +1,4 @@
-# Pi_Art
+# Pi Art
 Some art made with Pi
 
 # N°1 -
