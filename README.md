@@ -18,5 +18,6 @@ Some art made with Pi
 
 # N°4 -
 ![alt text](https://github.com/jclge/Pi_Art/blob/master/art4.jpg)
+
 --- Every pixel is drawn depending on its modulo and its position in Pi ---
 
